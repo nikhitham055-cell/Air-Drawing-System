@@ -17,6 +17,7 @@ The system uses **MediaPipe for real-time hand tracking**, computer vision techn
 
 ## Project Structure
 
+```text
 Air-Drawing-System/
 │
 ├── models/
@@ -28,6 +29,7 @@ Air-Drawing-System/
 ├── train_model.py
 ├── requirements.txt
 └── README.md
+```
 
 ##  Supported Shapes
 
