@@ -65,3 +65,18 @@ Shape Prediction
    ├── Square
    ├── Star
    └── Triangle
+
+
+##  Project Structure
+
+Air-Drawing-System/
+│
+├── models/
+├── ai_recognition.py
+├── drawing_canvas.py
+├── gesture_recognition.py
+├── hand_tracker.py
+├── main.py
+├── train_model.py
+├── requirements.txt
+└── README.md
