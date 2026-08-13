@@ -15,6 +15,20 @@ The system uses **MediaPipe for real-time hand tracking**, computer vision techn
 -  Real-time webcam integration
 -  Real-time processing and prediction
 
+## Project Structure
+
+Air-Drawing-System/
+│
+├── models/
+├── ai_recognition.py
+├── drawing_canvas.py
+├── gesture_recognition.py
+├── hand_tracker.py
+├── main.py
+├── train_model.py
+├── requirements.txt
+└── README.md
+
 ##  Supported Shapes
 
 The system is trained to recognize:
@@ -66,17 +80,3 @@ Shape Prediction
    ├── Star
    └── Triangle
 
-
-##  Project Structure
-
-Air-Drawing-System/
-│
-├── models/
-├── ai_recognition.py
-├── drawing_canvas.py
-├── gesture_recognition.py
-├── hand_tracker.py
-├── main.py
-├── train_model.py
-├── requirements.txt
-└── README.md
